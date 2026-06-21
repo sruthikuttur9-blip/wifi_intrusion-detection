@@ -1,2 +1,2 @@
 # wifi_intrusion-detection
-Machine Learning based Wi-Fi Intrusion Detection System for detecting deauthentication attacks.
+Designed and implemented a Machine Learning-based Wi-Fi Intrusion Detection System to detect Deauthentication attacks in wireless networks using network traffic analysis, enhancing security and attack detection accuracy.
